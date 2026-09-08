@@ -128,6 +128,11 @@ const categoryNames = {
   accessories: 'Accessories'
 };
 
+const blackProductImage = 'https://placehold.co/900x1200/000000/000000.png';
+products.forEach((product) => {
+  product.img = blackProductImage;
+});
+
 let currentFilter = 'all';
 let cartItems = [];
 let selectedSize = '';
