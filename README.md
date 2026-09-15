@@ -49,7 +49,7 @@ Some things I would like to work on in the future are:
 * Improving the shopping experience
 * Making the website more like a real-world clothing store
 
-👨🏽‍💻 Why This Project Matters To Me
+Why This Project Matters To Me
 
 KLEAN is one of the biggest projects I’ve worked on so far.
 
